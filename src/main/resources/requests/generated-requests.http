@@ -1,0 +1,4 @@
+###
+GET http://{{host}}/numbers/connect/{{number}}
+
+<> 2020-07-21T053939.200.json
