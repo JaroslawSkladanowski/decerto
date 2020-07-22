@@ -1,6 +1,6 @@
-package com.decerto.demo.services.impl.numbers;
+package com.decerto.demo.service.impl.numbers;
 
-import com.decerto.demo.models.DataSource;
+import com.decerto.demo.model.DataSource;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
